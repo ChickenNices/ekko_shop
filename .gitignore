@@ -1,0 +1,4 @@
+# Project exclude paths
+/ekko_shop_canal_client/target/
+/ekko_shop_common/target/
+/ekko_shop_realtime_etl/target/
